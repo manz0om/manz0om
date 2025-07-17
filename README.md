@@ -15,6 +15,7 @@
 
 ---
 
+### 🏆 GitHub Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=manz0om" alt="manz0om trophies" />
@@ -56,6 +57,7 @@
 
 ---
 
+### 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manz0om&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
