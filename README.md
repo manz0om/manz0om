@@ -31,8 +31,8 @@
 ### 📫 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manzoom-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manzoom)
-[![GitHub](https://img.shields.io/badge/GitHub-manz0om-181717?style=plastic&logo=github&logoColor=white)](https://github.com/manz0om)
-[![Email](https://img.shields.io/badge/Email-manzoom-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:manzoom763@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Manzoom-228B22?style=plastic&logo=github&logoColor=white)](https://github.com/manz0om)
+[![Email](https://img.shields.io/badge/Email-Manzoom-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:manzoom763@gmail.com)
 
 ---
 
@@ -58,7 +58,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=manz0om&show_icons=true&theme=light&hide_border=false" alt="GitHub Stats" />
 </p>
 
