@@ -28,9 +28,10 @@
 ---
 
 ### 📫 Connect with Me:
-<a href="https://in.linkedin.com/in/manzoom" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Manzoom%20Ahmed-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manzoom%20Ahmed-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manzoom)
+[![GitHub](https://img.shields.io/badge/GitHub-manz0om-181717?style=for-the-badge&logo=github)](https://github.com/manz0om)
+[![Email](https://img.shields.io/badge/Email-manz0om%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manzoom763@gmail.com)
 
 ---
 
