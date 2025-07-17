@@ -70,10 +70,10 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manz0om&show_icons=true&theme=light&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manz0om&show_icons=true&theme=light&hide_border=false" alt="GitHub Stats" /> &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manz0om&layout=compact&theme=light&hide_border=false" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=manz0om&theme=light&hide_border=false" alt="GitHub Streak" />
 </p>
