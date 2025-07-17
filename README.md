@@ -30,9 +30,9 @@
 
 ### 📫 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manzoom-blue?style=plastic&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manzoom)
-[![GitHub](https://img.shields.io/badge/GitHub-manz0om-green?style=plastic&logo=github)](https://github.com/manz0om)
-[![Email](https://img.shields.io/badge/Email-manzoom-D14836?style=fplastic&logo=gmail&logoColor=white)](mailto:manzoom763@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manzoom-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manzoom)
+[![GitHub](https://img.shields.io/badge/GitHub-manz0om-181717?style=plastic&logo=github&logoColor=white)](https://github.com/manz0om)
+[![Email](https://img.shields.io/badge/Email-manzoom-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:manzoom763@gmail.com)
 
 ---
 
@@ -58,8 +58,14 @@
 ---
 
 ### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manz0om&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manz0om&show_icons=true&theme=light&hide_border=false" alt="GitHub Stats" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manz0om&show_icons=true&locale=en" alt="GitHub Stats" /></p><br />
-[![]](https://nirzak-streak-stats.vercel.app/?user=manz0om&theme=light&hide_border=false)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manz0om&layout=compact&theme=light&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manz0om&theme=light&hide_border=false" alt="GitHub Streak" />
+</p>
