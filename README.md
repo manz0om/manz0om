@@ -15,6 +15,17 @@
 
 ---
 
+### 🤝 I’m Looking for Collaboration On
+
+- 🛠️ Open Source **Ruby on Rails** or **Go** Projects  
+- 🌐 SaaS Platforms, APIs, or Backend Architecture  
+- 🧠 **Generative AI** and **AI Agents** applications
+- 🛠️ Open Source contributions in AI/ML tools and libraries  
+
+[![Let's Collaborate!](https://img.shields.io/badge/Let's%20Collaborate!-006400?style=for-the-badge&logoColor=white)](mailto:manzoom763@gmail.com)
+
+---
+
 ### 🏆 GitHub Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -32,7 +43,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manzoom-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manzoom)
 [![GitHub](https://img.shields.io/badge/GitHub-Manzoom-228B22?style=plastic&logo=github&logoColor=white)](https://github.com/manz0om)
-[![Email](https://img.shields.io/badge/Email-Manzoom-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:manzoom763@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Manzoom-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:manzoom763@gmail.com)
 
 ---
 
@@ -60,9 +71,6 @@
 ### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=manz0om&show_icons=true&theme=light&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manz0om&layout=compact&theme=light&hide_border=false" alt="Top Languages" />
 </p>
 
