@@ -31,8 +31,8 @@
 ### 📫 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manzoom%20Ahmed-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manzoom)
-[![GitHub](https://img.shields.io/badge/GitHub-manz0om-181717?style=for-the-badge&logo=github)](https://github.com/manz0om)
-[![Email](https://img.shields.io/badge/Email-manz0om%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manzoom763@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-manz0om-green?style=for-the-badge&logo=github)](https://github.com/manz0om)
+[![Email](https://img.shields.io/badge/Email-manzoom763%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manzoom763@gmail.com)
 
 ---
 
@@ -61,5 +61,5 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manz0om&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manz0om&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manz0om&show_icons=true&locale=en" alt="GitHub Stats" /></p><br />
+<p>![](https://nirzak-streak-stats.vercel.app/?user=manz0om&theme=light&hide_border=false)</p>
