@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manz0om&label=Profile%20views&color=0e75b6&style=flat" alt="manz0om" /> </p>  
+  
 ## Hi there 👋
 <h3 align="left">I am passionate Software Engineer from India, with 8+ years of experience.
 Proficient in both backend and fullstack development. 
@@ -5,9 +7,7 @@ I bring a strong background in Ruby, Ruby on Rails, Go, SQL and React.js, along 
 APIs, developing microservices, and deploying solutions on AWS.
 I have built SaaS products with strong focus on performance, reliability and user-centric features.
 Also understand the importance of clean architecture, seamless integerations and delivering features that supports product teams and help clients.
-Passionate and curious to continuously learn and grow. Committed and responsible. Capable of working independently as well as a team player.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manz0om&label=Profile%20views&color=0e75b6&style=flat" alt="manz0om" /> </p>
+Passionate and curious to continuously learn and grow. Committed and responsible. Capable of working independently as well as a team player.</h3>  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manz0om" alt="manz0om" /></a> </p>
 
