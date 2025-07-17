@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3 align="center">A passionate Software Engineer from India, with 8+ years of experience.
+<h3 align="left">I am passionate Software Engineer from India, with 8+ years of experience.
 Proficient in both backend and fullstack development. 
 I bring a strong background in Ruby, Ruby on Rails, Go, SQL and React.js, along with deep expertise in designing RESTful
 APIs, developing microservices, and deploying solutions on AWS.
@@ -15,7 +15,7 @@ Passionate and curious to continuously learn and grow. Committed and responsible
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin/user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/user" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/linkedin/user](https://www.linkedin.com/in/manzoom)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/user" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
