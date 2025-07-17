@@ -8,14 +8,14 @@ APIs, developing microservices, and deploying solutions on AWS.
 I have built SaaS products with strong focus on performance, reliability and user-centric features.
 Also understand the importance of clean architecture, seamless integerations and delivering features that supports product teams and help clients.
 Passionate and curious to continuously learn and grow. Committed and responsible. Capable of working independently as well as a team player.</h3>  
-
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manz0om" alt="manz0om" /></a> </p>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TRNUrm16a6zpMzo1uBox2nD_jpt0X2mQ/view?usp=drive_link](https://drive.google.com/file/d/1TRNUrm16a6zpMzo1uBox2nD_jpt0X2mQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/manz0om](https://www.linkedin.com/in/manz0om)" target="blank"><img align="center" src="[https://www.linkedin.com/in/manz0om](https://www.linkedin.com/in/manz0om)" alt="linkedin/manz0om" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/manz0om](https://www.linkedin.com/in/manz0om)" target="blank"><img align="center" src="[https://www.linkedin.com/in/manz0om](https://www.linkedin.com/in/manz0om)" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
