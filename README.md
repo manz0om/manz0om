@@ -26,15 +26,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manz0om" alt="manz0om trophies" />
-  </a>
-</p>
-
----
-
 ### 📄 [Know about my experiences](https://drive.google.com/file/d/1TRNUrm16a6zpMzo1uBox2nD_jpt0X2mQ/view?usp=drive_link)
 
 ---
@@ -64,6 +55,15 @@
   <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manz0om" alt="manz0om trophies" />
+  </a>
 </p>
 
 ---
