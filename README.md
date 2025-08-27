@@ -59,12 +59,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manz0om" alt="manz0om trophies" />
-  </a>
-</p>
+### 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=manz0om&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
