@@ -60,7 +60,7 @@
 ---
 
 ### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=manz0om&theme=onedark)](https://github.com/manz0om/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manz0om&theme=onedark)]
 
 ---
 
